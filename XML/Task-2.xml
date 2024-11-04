@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetwokingSites>
+    <Site>
+        <Name>Pinterest</Name>
+        <users>100000+</users>
+        <age>15 years</age>
+        <downloads>100mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name>Instagram</Name>
+        <users>500000+</users>
+        <age>17 years</age>
+        <downloads>10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name>Facebook</Name>
+        <users>500000+</users>
+        <age>24 years</age>
+        <downloads>10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name>Viber</Name>
+        <users>500000+</users>
+        <age>13 years</age>
+        <downloads>10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name>WhatsUp</Name>
+        <users>500000+</users>
+        <age>25 years</age>
+        <downloads>10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name>Telegram</Name>
+        <users>500000+</users>
+        <age>18 years</age>
+        <downloads>10000mil+</downloads>
+    </Site>
+</SocialNetwokingSites>

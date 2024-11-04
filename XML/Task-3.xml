@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetwokingSites>
+    <Site>
+        <Name type="social_media" TargAudience="all">Pinterest</Name>
+        <users before18="63%" after18="37%">100000+</users>
+        <age CEOchange="2017" MostBenefYear="2022">15 years</age>
+        <downloads PlayMarket="78%" AppStore="22%">100mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name type="social_media" TargAudience="all">Instagram</Name>
+        <users before18="73%" after18="27%">500000+</users>
+        <age CEOchange="2010" MostBenefYear="2023">17 years</age>
+        <downloads PlayMarket="45%" AppStore="55%">10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name type="social_media" TargAudience="16+">Facebook</Name>
+        <users before18="55%" after18="45%">500000+</users>
+        <age CEOchange="2016" MostBenefYear="2016">24 years</age>
+        <downloads PlayMarket="33%" AppStore="67%">10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name type="messanger" TargAudience="10+">Viber</Name>
+        <users before18="60%" after18="40%">500000+</users>
+        <age CEOchange="2018" MostBenefYear="2016">13 years</age>
+        <downloads PlayMarket="70%" AppStore="30%">10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name type="messanger" TargAudience="10+">WhatsUp</Name>
+        <users before18="15%" after18="85%">500000+</users>
+        <age CEOchange="2010" MostBenefYear="2012">25 years</age>
+        <downloads PlayMarket="48%" AppStore="52%">10000mil+</downloads>
+    </Site>
+
+    <Site>
+        <Name type="messanger" TargAudience="10+">Telegram</Name>
+        <users before18="32%" after18="68%">500000+</users>
+        <age CEOchange="none" MostBenefYear="2022">18 years</age>
+        <downloads PlayMarket="77%" AppStore="23%">10000mil+</downloads>
+    </Site>
+</SocialNetwokingSites>

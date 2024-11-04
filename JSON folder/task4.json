@@ -1,0 +1,14 @@
+{
+    "site": "github",
+    "total_users": 12800000,
+    "market volmue": 12800000,
+    "month_subscribtion_price": 4.50,
+    "shares price" : 3.2,
+    "free_version": true,
+    "CEOes": ["Bill Gates", "Kluchko"],
+    "features": {
+        "GitPages": "first page only",
+        "commitment": "always free"
+    }
+
+}

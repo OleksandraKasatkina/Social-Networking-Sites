@@ -1,0 +1,49 @@
+[   {
+     "site": "facebook",
+     "total_users": 32200000,
+     "market volmue": 88800000,
+     "revenue per add": 4.50,
+     "shares price" : 3.9
+   
+    },
+    {
+        "site": "youtube",
+        "total_users": 3800000,
+        "market volmue": 1100000,
+        "revenue per add": 8.50,
+        "shares price" : 0.9
+   
+    },
+    {
+        "site": "instagram",
+        "total_users": 39999990000,
+        "market_volmue": 3333300000,
+        "revenue per add": 0.50,
+        "shares price" : 8.9
+   
+    },
+    {
+        "site": "4chan",
+        "total_users": 12222,
+        "market_volmue": 0,
+        "revenueper_add": 0,
+        "shares_price" : 999
+   
+    },
+    {
+        "site": "snapchat",
+        "total_users": 89995060,
+        "market_volmue": 3883300000,
+        "revenue_per_add": 88.50,
+        "shares_price" : 11.9
+   
+    },
+    {   
+     "site": "x",
+        "total_users": 883996999690000,
+        "market_volmue": 33358563300000,
+     "revenue_per_add": 77,
+        "shares_price" : 99
+   
+    }
+]
